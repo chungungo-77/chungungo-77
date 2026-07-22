@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Camila Ojeda 👋
 
-<!--
-**chungungo-77/chungungo-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante Técnica en Informática y Data Science, enfocada en crear soluciones prácticas de datos para pequeñas y medianas empresas.
 
-Here are some ideas to get you started:
+Transformo archivos Excel y CSV desordenados en datos confiables, reportes automáticos y dashboards que ayudan a entender ventas, clientes, gastos y operaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Servicios y enfoque
+
+- Limpieza, estandarización y validación de archivos Excel y CSV con Python y pandas
+- Automatización de reportes y procesos repetitivos de datos
+- Análisis de ventas, gastos y clientes
+- Dashboards interactivos en Power BI y Streamlit
+- Consultas y preparación de datos con SQL
+- Segmentación de clientes como apoyo a estrategias comerciales
+
+## Tecnologías
+
+`Python` · `pandas` · `SQL` · `Power BI` · `Streamlit` · `Git/GitHub` · `Jupyter` · `PySpark`
+
+## Proyectos destacados
+
+### [Automatización y limpieza de archivos Excel](URL_REPOSITORIO)
+Aplicación en Streamlit que procesa archivos Excel, estandariza campos, detecta errores, elimina duplicados y genera archivos limpios junto con un reporte de calidad de datos.
+
+### [Segmentación de clientes retail](URL_REPOSITORIO)
+Análisis de clientes mediante clustering para identificar segmentos y proponer acciones comerciales basadas en ingresos y comportamiento de compra.
+
+### [Predicción de abandono de clientes Telco](URL_REPOSITORIO)
+Proyecto en desarrollo para preparar datos de clientes de telecomunicaciones y predecir riesgo de abandono mediante machine learning.
+
+## Contacto
+
+- LinkedIn: Camila Ojeda (URL_LINKEDIN)
+- Email: camille.ov77@gmail.com
+- Streamlit Apps: [Ver aplicaciones](URL_STREAMLIT)
+
+> Abierta a colaborar en proyectos de limpieza, automatización, análisis y visualización de datos.
