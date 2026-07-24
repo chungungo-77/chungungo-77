@@ -32,6 +32,6 @@ Proyecto en desarrollo para preparar datos de clientes de telecomunicaciones y p
 
 - LinkedIn: Camila Ojeda (URL_LINKEDIN)
 - Email: camille.ov77@gmail.com
-- Streamlit Apps: [Ver aplicaciones](URL_STREAMLIT)
+- Streamlit Apps: [Ver aplicaciones](https://automatizacionexcelgastos-jg3k4wjwydnav6keuknf2c.streamlit.app/)
 
 > Abierta a colaborar en proyectos de limpieza, automatización, análisis y visualización de datos.
