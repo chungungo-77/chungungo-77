@@ -19,7 +19,7 @@ Transformo archivos Excel y CSV desordenados en datos confiables, reportes autom
 
 ## Proyectos destacados
 
-### [Automatización y limpieza de archivos Excel](URL_REPOSITORIO)
+### [Automatización y limpieza de archivos Excel](https://github.com/chungungo-77/automatizacion_excel_gastos)
 Aplicación en Streamlit que procesa archivos Excel, estandariza campos, detecta errores, elimina duplicados y genera archivos limpios junto con un reporte de calidad de datos.
 
 ### [Segmentación de clientes retail](URL_REPOSITORIO)
