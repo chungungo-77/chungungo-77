@@ -22,11 +22,8 @@ Transformo archivos Excel y CSV desordenados en datos confiables, reportes autom
 ### [Automatización y limpieza de archivos Excel](https://github.com/chungungo-77/automatizacion_excel_gastos)
 Aplicación en Streamlit que procesa archivos Excel, estandariza campos, detecta errores, elimina duplicados y genera archivos limpios junto con un reporte de calidad de datos.
 
-### [Segmentación de clientes retail](URL_REPOSITORIO)
+### [Segmentación de clientes retail](https://github.com/chungungo-77/segmentacion-clientes-retail)
 Análisis de clientes mediante clustering para identificar segmentos y proponer acciones comerciales basadas en ingresos y comportamiento de compra.
-
-### [Predicción de abandono de clientes Telco](URL_REPOSITORIO)
-Proyecto en desarrollo para preparar datos de clientes de telecomunicaciones y predecir riesgo de abandono mediante machine learning.
 
 ## Contacto
 
