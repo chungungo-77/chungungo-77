@@ -29,6 +29,6 @@ Análisis de clientes mediante clustering para identificar segmentos y proponer 
 
 - LinkedIn: Camila Ojeda (URL_LINKEDIN)
 - Email: camille.ov77@gmail.com
-- Streamlit Apps: [Ver aplicaciones](https://automatizacionexcelgastos-bqsfap7q8rz5yffe9qrgtf.streamlit.app/)
+- Streamlit Apps: [Ver aplicaciones](https://automatizacionexcelgastos-tukrtnxaj8gr4mea74zyhw.streamlit.app/)
 
 > Abierta a colaborar en proyectos de limpieza, automatización, análisis y visualización de datos.
